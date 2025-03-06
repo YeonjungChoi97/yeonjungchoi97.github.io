@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Front Page"
+title: "Yeonjung Choi"
 author_profile: true
 redirect_from: 
   - /about/
