@@ -40,6 +40,7 @@ Teaching
 <!-- <ul>{% for post in site.teaching reversed %}
    {% include archive-single-cv.html %}
 {% endfor %}</ul> -->
+* Winter 2025 - MGCR233: Data Programming for Python 
   
 Service and leadership
 ======
