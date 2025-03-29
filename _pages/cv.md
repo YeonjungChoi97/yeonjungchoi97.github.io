@@ -39,4 +39,6 @@ Teaching
 Service and leadership
 ======
 * Desautels Doctorate Students Society (DDSS), 2024-2025 academic year
-  * Student Representative for PhD programme committee
+  * Vice-President: Student Representative for PhD programme committee
+* 2025 Montreal Business Schools PhD Symposium
+  * Organizing Committee
