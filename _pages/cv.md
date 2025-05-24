@@ -20,9 +20,7 @@ Research
 * M&A - IT 
   * presented at CIST 2023
 
-* Internationalisation - IT
-  * work in progress :)
-  
+
 Skills
 ======
 * R
